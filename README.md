@@ -5,4 +5,5 @@ Added resourcegroup,
 vnet , subnet, security group, postgress db and postgress db firewallrule.
 
 Below are the things needed 
-Infra Definition, composition, claim
+Infra Definition, 
+composition, claim
